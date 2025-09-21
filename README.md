@@ -70,9 +70,14 @@ purchase_history → tracks user purchases
 
 ### 📸 Screenshots 
 **1️⃣ Home Page** 
-![Image](https://github.com/user-attachments/assets/24bfed85-aa81-4dce-a120-d6b56fe4b0b5)
+
+![Image](https://github.com/user-attachments/assets/4effd90c-6642-41f9-8919-666e5748cf86)
+
 **2️⃣ Search Results** 
-![Image](https://github.com/user-attachments/assets/c3e24d88-7187-4ae3-a38c-203e88df6f43)
+
+![Image](https://github.com/user-attachments/assets/3d04b75c-ed86-4ec1-b7c2-27a166a79315)
+
 **3️⃣ Recommendations Page** 
-![Image](https://github.com/user-attachments/assets/aae5f605-0ca9-4d71-98dc-a72cb7a7c8a7)
+
+![Image](https://github.com/user-attachments/assets/9a4fbf1f-3ff5-4440-985e-7dd80453eeff)
 
