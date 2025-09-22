@@ -32,10 +32,10 @@ It uses:
 ## ⚙️ Installation & Setup  
 
 ### 1️⃣ Clone the repository  
-```bash
-git clone <repo_url>
+
+git clone https://github.com/Sriram-Attili/medicine-recommendation.git 
+
 cd MediSearch
-```
 
 ### 2️⃣ Install dependencies
 ```bash
